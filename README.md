@@ -1,5 +1,8 @@
 # Notes example app
 
+<img height="400" src="github/screenshot_home.png" alt="Screenshot of home activity"/>
+
+
 This repository contains the source code for the Notes example app.
 
 You will need JDK 1.7+ installed to work with it.
