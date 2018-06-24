@@ -1,7 +1,6 @@
 # Notes example app
 
-<img height="400" src="github/screenshot_home.png" alt="Screenshot of home activity"/>
-
+<img hspace="20" height="400" src="github/screenshot_home.png" alt="Screenshot of home activity"/><img  hspace="20" height="400" src="github/screenshot_note_detail.png" alt="Screenshot of note detail"/><img hspace="20" height="400" src="github/screenshot_edit_note.png" alt="Screenshot of edit note"/>
 
 This repository contains the source code for the Notes example app.
 
