@@ -31,7 +31,7 @@ This creates an APK named `app-debug.apk` in `project_name/module_name/build/out
 #### 3. Or to build the APK and immediately install it on a running emulator or connected device, instead invoke `installDebug`:
 
 ```
-gradlew installDebug
+$ gradlew installDebug
 ```
 
 To see all the build and install tasks available for each variant (including uninstall tasks), run the `tasks` task.
@@ -45,11 +45,11 @@ $ ./gradlew tasks
 You can run tests targeting specific build variant using following syntax:
 
 ```
-./gradlew testVariantNameUnitTest
+$ ./gradlew testVariantNameUnitTest
 ```
 
 To run the tests targeting debug variant, run:
 
 ```
-./gradlew testDebugUnitTest
+$ ./gradlew testDebugUnitTest
 ```
