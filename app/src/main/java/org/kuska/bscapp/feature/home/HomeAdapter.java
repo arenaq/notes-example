@@ -50,7 +50,7 @@ public class HomeAdapter extends RecyclerView.Adapter<HomeAdapter.NoteViewHolder
                 }
             }
         });
-        // TODO checkovat, jestli neni text prázdnej a vyhodit alert dialog
+        // TODO check if text is not empty and show alert dialog if necessary
         if (note.getTitle() != null && !note.getTitle().isEmpty()) {
             holder.txtIcon.setText(String.valueOf(note.getTitle().charAt(0)));
         }
