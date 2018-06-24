@@ -17,7 +17,7 @@ I have created a default API for this application on http://bsc-notes.duke-hq.ne
 $ vim app/build.gradle
 ```
 ```
-buildConfigField "String", "NOTES_BASEURL_API", "\"URL""
+buildConfigField "String", "NOTES_BASEURL_API", "\"URL"\"
 ```
 
 #### 2. Build the application using command line or using GUI.
