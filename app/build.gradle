@@ -24,7 +24,6 @@ android {
         buildConfigField "int", "LIMIT", "100"
         buildConfigField "int", "CACHETIME", "432000" // 5days
 //        buildConfigField "String", "NOTES_BASEURL_API", "\"http://private-9aad-note10.apiary-mock.com/\""
-//        buildConfigField "String", "NOTES_BASEURL_API", "\"http://ts.duke-hq.net/api/\""
         buildConfigField "String", "NOTES_BASEURL_API", "\"http://bsc-notes.duke-hq.net/api/\""
         vectorDrawables.useSupportLibrary = true
     }
